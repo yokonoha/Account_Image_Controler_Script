@@ -1,0 +1,2 @@
+# Account_Image_Controler_Script
+[J]ローカルストレージ領域にアカウントシステムを作り、そこにユーザー画像を登録するスクリプト
