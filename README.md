@@ -19,3 +19,5 @@ https://caffeineapps.pages.dev/account
 <input type="file" accept="image/*" id="import">
     </div> 
 ```
+御利用にはCanvas要素が必要です。Base64に変換するために使います。(ユーザーに見せるものではないので、CSSのdisplay値はnoneにセットされています。)  
+こだわりは、どんなサイズの画像を読み込まれても引き延ばしを起こさないようにしたこと だったと思います!(遠い記憶)
